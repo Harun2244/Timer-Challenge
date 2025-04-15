@@ -1,8 +1,10 @@
 
 React Timer Challenge Application
+
 This project is a simple React application that presents a series of timer challenges to the user. The user can start and stop timers for different challenges, and their results are shown in a modal dialog. The application demonstrates the use of React refs and portals.
 
 Features
+
 Timer Challenges: Users can start and stop timers with different target times.
 Player Name: Users can set their player name, which will be displayed throughout the challenges.
 Result Modals: After stopping the timer or when the time runs out, a modal dialog shows the user's score or indicates if they lost.
